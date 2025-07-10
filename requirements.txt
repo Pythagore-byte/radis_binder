@@ -1,4 +1,7 @@
 radis[full]
 jupyter
-pandas
 openpyxl
+numpy<2
+pandas
+matplotlib
+hitran-api
